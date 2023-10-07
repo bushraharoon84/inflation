@@ -1,9 +1,32 @@
-h1{color:navy ;
-border: 1px solid yellow;}
-
-
-
-.subHeading{color: orange; }
-body{
-    background-color:aquamarine;
+h1{color:rgba(28, 30, 30, 0.93) ;font-weight: 600;font: bolder;outline:dotted;border:  #1887bb;
 }
+h2{color:rgb(34, 37, 37);font-weight: 600;font: bolder;outline:dotted;border-color: aqua;}
+    
+
+body{background-color:gold; gap:inherit 5px;writing-mode: horizontal-tb;width: auto;padding: block 10px 20px  ;} 
+
+   p{color: gray;}
+.subHeading{color :rgba(43, 205, 226, 0.93);font-size: medium;font-weight: 600;text-decoration: double; }
+
+.eduTable td{
+    margin: 30px;padding:10px 20px 10px 20px ;font-size: large;font: 1em sans-serif;
+}
+.eduTable th{margin: 10px;
+     padding: 20px 40px 20px 40px;font-size: large;font: 2em sans-serif;
+}
+.eduTablecell{
+    padding: 10px 20px 10px 20px;font-size :large ;font-weight: 600;font:white 
+    }
+    th{font-size: large;font-style:bold;background-color: rgba(6, 9, 41, 0);}
+td{text-decoration: double
+;}
+*eduTablecell{font-size: large;text-decoration: dotted;background-color: blueviolet;}
+ 
+
+
+
+
+
+
+
+
